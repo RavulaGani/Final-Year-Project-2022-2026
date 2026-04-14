@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Upload</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        input[type="file"] {
+            margin-bottom: 20px;
+            display: block;
+            width: 100%;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .response {
+            margin-top: 20px;
+            word-wrap: break-word;
+            text-align: left;
+        }
+
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+
+        .color-box {
+            width: 50px;
+            height: 50px;
+            display: inline-block;
+            margin: 5px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Image</h1>
+        <form id="uploadForm">
+            <input type="file" id="imageInput" name="file" accept="image/*" required>
+            <button type="submit">Upload</button>
+        </form>
+        <div id="response" class="response"></div>
+    </div>
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const formData = new FormData();
+            const fileField = document.querySelector('input[type="file"]');
+
+            formData.append('file', fileField.files[0]);
+
+            const responseDiv = document.getElementById('response');
+            responseDiv.innerHTML = 'Uploading...';
+
+            try {
+                const response = await fetch('/upload_image', {
+                    method: 'POST',
+                    body: formData
+                });
+                const data = await response.json();
+                if (response.ok) {
+                    const { response_image, response_lip, color_recommendations } = data;
+                    const lipToneMapping = { 1: 'spring', 2: 'summer', 3: 'autumn', 4: 'winter' };
+                    const lipTone = lipToneMapping[response_lip.result.result] || 'unknown';
+
+                    responseDiv.innerHTML = `
+                        <h2>Response from /image</h2>
+                        <p><strong>Skin Tone:</strong> ${response_image.result.season}</p>
+                        <p><strong>Lip Tone:</strong> ${response_lip.result.result}</p>
+                    `;
+                    if (color_recommendations) {
+                        const colorBoxes = color_recommendations.map(color => `<div class="color-box" style="background-color: ${color};"></div>`).join('');
+                        responseDiv.innerHTML += `
+                            <h2>Recommended Colors</h2>
+                            <div>${colorBoxes}</div>
+                        `;
+                    }
+                } else {
+                    responseDiv.innerHTML = `
+                        <h2>Error</h2>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                }
+            } catch (error) {
+                responseDiv.innerHTML = `
+                    <h2>Error</h2>
+                    <pre>${error.message}</pre>
+                `;
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1552 @@
+[
+    {
+        "gender": "male",
+        "colors": [
+            {
+                "value": "#FFDDC1",
+                "color": "Light Peach",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://imgs.search.brave.com/KVANN1Ey1R23CoTvbNL3c7KZ9vuq1FuvvGOOTPhzwFk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjErTGdGUElQekwu/anBn"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4E1",
+                "color": "Misty Rose",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://imgs.search.brave.com/5MEXmadzLST9FQK9lt1KdUzi64Ow42VQV0BQzi-8cnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaTJw/b252MHY1b3R3LmNs/b3VkZnJvbnQubmV0/L3Bvc3RzLzIwMjQv/MDQvMDkvNjYxNjBl/NjkyMDY4NDc5YjVl/NjdmNzI2L3NfNjYx/NjBlOTk4YTAwZTNj/YmViYjEyMjdlLmpw/Zw"
+                    }
+                ]
+            },
+            {
+                "value": "#FFB6C1",
+                "color": "Light Pink",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://muselot.in/cdn/shop/products/Muselot_s-plain-crop-t-shirt-in-lightpinkcolor.jpg?v=1657832830&width=1445"
+                    }
+                ]
+            },
+            {
+                "value": "#FFC0CB",
+                "color": "Pink",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://imgs.search.brave.com/w728mfYQ5kHJlwGHVOCd62ATxrYYr461CsLDW9F4OHw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFRcC1lSnB1M0wu/anBn"
+                    }
+                ]
+            },
+            {
+                "value": "#FFDAB9",
+                "color": "Peach Puff",
+                "clothes": [
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$34.99",
+                        "image": "https://imgs.search.brave.com/MEc5r3gwpM3Gyl6Xy2tZe020sgSDT24bGx5nvJv5Stw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG5h/Lmx5c3RpdC5jb20v/NDAwLzUwMC90ci9w/aG90b3MvYmFsdGlu/aS85Y2YwYzk1Zi9w/b2xvLXJhbHBoLWxh/dXJlbi1NdWx0aWNv/bG9yLVNsaW0tRml0/LVBvbG8uanBlZw"
+                    }
+                ]
+            },
+            {
+                "value": "#FFEFD5",
+                "color": "Papaya Whip",
+                "clothes": [
+                    {
+                        "name": "Shorts",
+                        "price": "$24.99",
+                        "image": "https://m.media-amazon.com/images/I/31SoGJB-i8L.AC_SY1000.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF8DC",
+                "color": "Cornsilk",
+                "clothes": [
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://is4.revolveassets.com/images/p4/n/tv/LEIV-MJ12_V1.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFACD",
+                "color": "Lemon Chiffon",
+                "clothes": [
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVhgBiyJVZzgXAkV9SCy11TGusNCzOG7vpA&s"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFFE0",
+                "color": "Light Yellow",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://static.wixstatic.com/media/0efa99_f4ccb2f9012b4b77be8d56a03ec3cda4~mv2.jpg/v1/fill/w_480,h_720,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0efa99_f4ccb2f9012b4b77be8d56a03ec3cda4~mv2.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF5EE",
+                "color": "Sea Shell",
+                "clothes": [
+                    {
+                        "name": "Sneakers",
+                        "price": "$59.99",
+                        "image": "https://i.etsystatic.com/32028882/r/il/bff379/3765898967/il_570xN.3765898967_hht4.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#E0A899",
+                "color": "Light Coral",
+                "clothes": [
+                    {
+                        "name": "Running Shoes",
+                        "price": "$69.99",
+                        "image": "https://contents.mediadecathlon.com/p2603078/k$520be08a7f7a03d2461b292bd28e29dc/kiprun-ks900-women-s-running-shoes-light-coral-kiprun-8772779.jpg?f=1920x0&format=auto"
+                    }
+                ]
+            },
+            {
+                "value": "#F5DEB3",
+                "color": "Wheat",
+                "clothes": [
+                    {
+                        "name": "Chinos",
+                        "price": "$54.99",
+                        "image": "https://www.toddsnyder.com/cdn/shop/files/slim-fit-5-pocket-chino-in-dark-wheattodd-snyder-427800_200x.jpg?v=1713497564"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4B5",
+                "color": "Moccasin",
+                "clothes": [
+                    {
+                        "name": "Cargo Pants",
+                        "price": "$39.99",
+                        "image": "https://i.pinimg.com/originals/9b/3a/dd/9b3addaaea95e0f520db7d33716f5669.png"
+                    }
+                ]
+            },
+            {
+                "value": "#FAFAD2",
+                "color": "Light Goldenrod Yellow",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://www.ridgemerino.com/cdn/shop/files/10007-GOL_1_1_2048x.jpg?v=1711059649"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4C4",
+                "color": "Bisque",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://www.toddsnyder.com/cdn/shop/files/two-pocket-utility-long-sleeve-shirt-in-bisquetodd-snyder-411893_2000x.jpg?v=1714017508"
+                    }
+                ]
+            },
+            {
+                "value": "#B16B8E",
+                "color": "Pale Violet Red",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://example.com/images/vest.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#D8BFD8",
+                "color": "Thistle",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://images-cdn.ubuy.co.in/636d046b36d434416f6a65f5-womens-thistle-flower-scotland-love.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#DDA0DD",
+                "color": "Plum",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0082/6989/9251/products/2022_Plum-Knit-Merino-2797-flat-front.jpg?v=1679590035"
+                    }
+                ]
+            },
+            {
+                "value": "#EE82EE",
+                "color": "Violet",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://static1.squarespace.com/static/5a66f89712abd9b394d145e0/5a66f8a653450af1bb636f66/5ab529b570a6ad003b6e22cf/1522501625064/144a.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#DA70D6",
+                "color": "Orchid",
+                "clothes": [
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$34.99",
+                        "image": "https://i5.walmartimages.com/asr/6e2e5c35-90ed-47b7-9b44-ec72119e4109.c17ff9b5d5d4056b0d4a8ffce5f8244e.jpeg"
+                    }
+                ]
+            },
+            {
+                "value": "#BA55D3",
+                "color": "Medium Orchid",
+                "clothes": [
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/t/23/3e5f251e-2949-47cb-b7da-39ce2513828c.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#9932CC",
+                "color": "Dark Orchid",
+                "clothes": [
+                    {
+                        "name": "Cargo Pants",
+                        "price": "$39.99",
+                        "image": "https://imgs.search.brave.com/McSTFfn8wFyuU2YN5tgAVMbOc0tktbOxlhatF0_8SfE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5obS5jb20vYXNz/ZXRzL2htL2YwLzIx/L2YwMjExZDcyODRi/Mjk4NGQ2ODYzYzkw/ZDRhNmUyM2MzYTkz/MDAzMWMuanBnP2lt/d2lkdGg9MTUzNg"
+                    }
+                ]
+            },
+            {
+                "value": "#9400D3",
+                "color": "Dark Violet",
+                "clothes": [
+                    {
+                        "name": "Sneakers",
+                        "price": "$59.99",
+                        "image": "https://ae-pic-a1.aliexpress-media.com/kf/H77758dd66689436ea7127904b5e3ef82q.jpg_640x640Q90.jpg_.webp"
+                    }
+                ]
+            },
+            {
+                "value": "#8A2BE2",
+                "color": "Blue Violet",
+                "clothes": [
+                    {
+                        "name": "Running Shoes",
+                        "price": "$69.99",
+                        "image": "https://www.jiomart.com/images/product/original/rvletykvcb/adidas-men-ampligy-m-blue-running-shoes-product-images-rvletykvcb-0-202307261800.jpg?im=Resize=(1000,1000)"
+                    }
+                ]
+            },
+            {
+                "value": "#7B68EE",
+                "color": "Medium Slate Blue",
+                "clothes": [
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://imgs.search.brave.com/lmVTh17z_pg7tkzYTDw4xl82NHcUwP11oULIfe0CpuQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzEyNjg2ODkyL2Mv/MTU3MS8xNTcxLzAv/MTM0L2lsLzEwOTEw/Zi81Nzg1ODg4MjYy/L2lsXzYwMHg2MDAu/NTc4NTg4ODI2Ml90/MWU1LmpwZw"
+                    }
+                ]
+            },
+            {
+                "value": "#6A5ACD",
+                "color": "Slate Blue",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://imgs.search.brave.com/M7_Kyu14TohpRwRINmaYMPv1GWHPFOlultAZBD_e6l0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZW50/dXguaW1naXgubmV0/LzE1MjMyODY4MzJf/NDMxNDYyU0xCLXZl/c3QtZnJvbnQtMDk2/OC5qcGc_Zm09anBn/JmZpdD1jcm9wJnc9/NDAwJmFyPTU6NyZh/dXRvPWZvcm1hdA"
+                    }
+                ]
+            },
+            {
+                "value": "#483D8B",
+                "color": "Dark Slate Blue",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://cdn2.propercloth.com/pic_cs/4baa27a6abcf0ccb67ef1fdf4faba139_size6.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#4169E1",
+                "color": "Royal Blue",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://5.imimg.com/data5/SELLER/Default/2023/8/333283693/VG/TQ/ZN/3712041/tshirt-royal-blue-1.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#0000FF",
+                "color": "Blue",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://5.imimg.com/data5/HA/JL/VV/SELLER-37472126/mens-plain-blue-sweater.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#0000CD",
+                "color": "Medium Blue",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2Ff9%2F2ff9afc25c76922b8d6d27e9ba36b5682dd48b17.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+                    }
+                ]
+            },
+            {
+                "value": "#00008B",
+                "color": "Dark Blue",
+                "clothes": [
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$34.99",
+                        "image": "https://printnew.in/wp-content/uploads/2021/05/4DC8399C-0CE4-4B3C-8C07-86BF61430E01.jpeg"
+                    }
+                ]
+            },
+            {
+                "value": "#000080",
+                "color": "Navy",
+                "clothes": [
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://m.media-amazon.com/images/I/61PluRa3-oL.AC_UY1100.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#191970",
+                "color": "Midnight Blue",
+                "clothes": [
+                    {
+                        "name": "Cargo Pants",
+                        "price": "$39.99",
+                        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2F28%2F1828da324821d4b19b1d393883fa22de6807db4d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_cargo%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+                    }
+                ]
+            },
+            {
+                "value": "#7FFFD4",
+                "color": "Aquamarine",
+                "clothes": [
+                    {
+                        "name": "Sneakers",
+                        "price": "$59.99",
+                        "image": "https://nagaba.eu/zdjecia/2024/02/21/917/22/4874n_6060_em7b_50we_0_37_4.jpg.webp"
+                    }
+                ]
+            },
+            {
+                "value": "#66CDAA",
+                "color": "Medium Aquamarine",
+                "clothes": [
+                    {
+                        "name": "Running Shoes",
+                        "price": "$69.99",
+                        "image": "https://cdn.lookastic.com/aquamarine-athletic-shoes/flex-rn-2017-running-shoes-medium-5265166.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#20B2AA",
+                "color": "Light Sea Green",
+                "clothes": [
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://i.ebayimg.com/images/g/DdUAAOSwcoVjwMJV/s-l1200.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#008B8B",
+                "color": "Dark Cyan",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://i.pinimg.com/474x/59/f4/72/59f472a2a8b3879f7e90307169c5bc62.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#008080",
+                "color": "Teal",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://www.dennislingo.com/cdn/shop/products/2_6c49ecde-b021-407c-9ffd-92c4bd8a4f71.jpg?v=1663886883&width=800"
+                    }
+                ]
+            },
+            {
+                "value": "#40E0D0",
+                "color": "Turquoise",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/FQ/LA/QH/10701548/mens-turquoise-t-shirt.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#48D1CC",
+                "color": "Medium Turquoise",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://mobile.yoox.com/images/items/14/14312866DE_14_f.jpg?impolicy=crop&width=387&height=490"
+                    }
+                ]
+            },
+            {
+                "value": "#AFEEEE",
+                "color": "Pale Turquoise",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJg0rMYN4m6gtnPOUzmw2Bn0DyLZ3AB9yeA&s"
+                    }
+                ]
+            },
+            {
+                "value": "#E0FFFF",
+                "color": "Light Cyan",
+                "clothes": [
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$34.99",
+                        "image": "https://imgs.search.brave.com/gGiZLpFEr7gDJsVmpMKIepUmJW3-kit-WybjHAK3Ef0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFwSmhsRkp3bkwu/anBn"
+                    }
+                ]
+            },
+            {
+                "value": "#00FFFF",
+                "color": "Cyan",
+                "clothes": [
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://www.backcountry.com/images/items/1200/MAM/MAM01AC/GEN.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#00CED1",
+                "color": "Dark Turquoise",
+                "clothes": [
+                    {
+                        "name": "Cargo Pants",
+                        "price": "$39.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVeJ8vu9KxjposhF0mcmEg7OyEm4InNhttg&s"
+                    }
+                ]
+            },
+            {
+                "value": "#5F9EA0",
+                "color": "Cadet Blue",
+                "clothes": [
+                    {
+                        "name": "Sneakers",
+                        "price": "$59.99",
+                        "image": "https://rukminim2.flixcart.com/image/850/1000/js3j5ow0/shoe/q/s/t/gc-2721117r-42-woodland-cadet-blue-original-imafdq9pbds6xase.jpeg?q=90&crop=false"
+                    }
+                ]
+            },
+            {
+                "value": "#4682B4",
+                "color": "Steel Blue",
+                "clothes": [
+                    {
+                        "name": "Running Shoes",
+                        "price": "$69.99",
+                        "image": "https://www.achivr.in/cdn/shop/products/1011B440_403_SB_FR_GLB.webp?v=1681297032"
+                    }
+                ]
+            },
+            {
+                "value": "#B0C4DE",
+                "color": "Light Steel Blue",
+                "clothes": [
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://m.media-amazon.com/images/I/61Tv18VIYPL.AC_UY1100.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#ADD8E6",
+                "color": "Light Blue",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2F3c%2Ff83c3d9c78394fd2fd0f95a77ebaf7996e76385a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_tanks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+                    }
+                ]
+            },
+            {
+                "value": "#87CEEB",
+                "color": "Sky Blue",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://imagescdn.thecollective.in/img/app/product/9/984135-13000982.jpg?w=500&auto=format"
+                    }
+                ]
+            },
+            {
+                "value": "#87CEFA",
+                "color": "Light Sky Blue",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://tiimg.tistatic.com/fp/1/007/480/skin-friendly-comfortable-light-weight-shrink-resistant-stylish-sky-blue-mens-shirt-166.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#00BFFF",
+                "color": "Deep Sky Blue",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://woollen-wear.in/image/cache/data/men/men-pure-wool%20sweater/SPWD01/sky-blue/men-pure-wool-vneck-sweater-designer-sky%20blue-back-500x636.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#1E90FF",
+                "color": "Dodger Blue",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://tfashionmart.com/cdn/shop/files/C00DB9E4-4592-44DD-A219-2930B64EC4CC.jpg?v=1718055332"
+                    }
+                ]
+            },
+            {
+                "value": "#6495ED",
+                "color": "Cornflower Blue",
+                "clothes": [
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$34.99",
+                        "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/altitemzoom/145512s5.jpg?im=Resize,width=750"
+                    }
+                ]
+            },
+            {
+                "value": "#4682B4",
+                "color": "Steel Blue",
+                "clothes": [
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://cdn.pixelspray.io/v2/black-bread-289bfa/iix9pB/wrkr/t.resize(h:1440,w:1080)/data/gas/15-Mar-2021/7686714-6.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#4169E1",
+                "color": "Royal Blue",
+                "clothes": [
+                    {
+                        "name": "Cargo Pants",
+                        "price": "$39.99",
+                        "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/348941718/IO/DQ/QF/138911864/men-blue-cotton-cargo-pant.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#0000FF",
+                "color": "Blue",
+                "clothes": [
+                    {
+                        "name": "Sneakers",
+                        "price": "$59.99",
+                        "image": "https://images.bestsellerclothing.in/data/JJ/26-dec-2023/137228904_g5.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto"
+                    }
+                ]
+            },
+            {
+                "value": "#0000CD",
+                "color": "Medium Blue",
+                "clothes": [
+                    {
+                        "name": "Running Shoes",
+                        "price": "$69.99",
+                        "image": "https://m.media-amazon.com/images/I/61VASaKlwRL.AC_UY300.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#00008B",
+                "color": "Dark Blue",
+                "clothes": [
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://m.media-amazon.com/images/I/411h04DFw3L.AC_UY1100.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#000080",
+                "color": "Navy",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://imagescdn.thecollective.in/img/app/product/9/979769-12907411.jpg?w=500&auto=format"
+                    }
+                ]
+            },
+            {
+                "value": "#191970",
+                "color": "Midnight Blue",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://assets.ajio.com/medias/sys_master/root/20220906/TXJi/631731a3f997dd1f8de6e4d6/-473Wx593H-441214922-navyblue-MODEL.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#AAB7B8",
+                "color": "Light Gray",
+                "clothes": [
+                  {
+                    "name": "Suit",
+                    "price": "$99.99",
+                    "image": "https://image.made-in-china.com/202f0j00MKAEkrBhllqv/Light-Grey-Color-Men-s-Single-Button-Wedding-Suit.webp"
+                  }
+                ]
+              },
+              {
+                "value": "#85929E",
+                "color": "Steel Blue",
+                "clothes": [
+                  {
+                    "name": "Jacket",
+                    "price": "$89.99",
+                    "image": "https://cdn.pixelspray.io/v2/black-bread-289bfa/iix9pB/wrkr/t.resize(h:1440,w:1080)/data/gas/15-Mar-2021/7686714-6.jpg"
+                  }
+                ]
+              },
+              {
+                "value": "#566573",
+                "color": "Dark Slate Gray",
+                "clothes": [
+                  {
+                    "name": "Coat",
+                    "price": "$99.99",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cc7OC1lNlw0ma_NPZLiw7MugseSC02yEQQ&s"
+                  }
+                ]
+              },
+              {
+                "value": "#2C3E50",
+                "color": "Charcoal",
+                "clothes": [
+                  {
+                    "name": "Blazer",
+                    "price": "$109.99",
+                    "image": "https://images.meesho.com/images/products/314407928/uuhn9_512.webp"
+                  }
+                ]
+              },
+              {
+                "value": "#A52A2A",
+                "color": "Brown",
+                "clothes": [
+                  {
+                    "name": "Jacket",
+                    "price": "$89.99",
+                    "image": "https://m.media-amazon.com/images/I/71O74TBGwgL._AC_UY1100_.jpg"
+                  }
+                ]
+              },
+              {
+                "value": "#8B0000",
+                "color": "Dark Red",
+                "clothes": [
+                  {
+                    "name": "Shirt",
+                    "price": "$49.99",
+                    "image": "https://images.meesho.com/images/products/312903015/rmkdv_512.jpg"
+                  }
+                ]
+              },
+              {
+                "value": "#B22222",
+                "color": "Firebrick",
+                "clothes": [
+                  {
+                    "name": "Hoodie",
+                    "price": "$39.99",
+                    "image": "https://m.media-amazon.com/images/I/31FzlAfkg1L._AC_UY1100_.jpg"
+                  }
+                ]
+              },
+              {
+                "value": "#CD5C5C",
+                "color": "Indian Red",
+                "clothes": [
+                  {
+                    "name": "Jacket",
+                    "price": "$89.99",
+                    "image": "https://images-cdn.ubuy.co.in/658a8ad4be547f3b2e0c8dab-fairylinks-red-leather-jacket-men-casual.jpg"
+                  }
+                ]
+              },
+              {
+                "value": "#DC143C",
+                "color": "Crimson",
+                "clothes": [
+                  {
+                    "name": "T-shirt",
+                    "price": "$19.99",
+                    "image": "https://www.p-m.com.pl/86031-medium_default/premium-plus-t-shirt-wine-red-crimson-cut.jpg"
+                  }
+                ]
+              },
+              {
+                "value": "#FF0000",
+                "color": "Red",
+                "clothes": [
+                  {
+                    "name": "Sweater",
+                    "price": "$49.99",
+                    "image": "https://media.gq.com/photos/586d3bbb861c329c70967473/master/w_1600%2Cc_limit/albam.jpg"
+                  }
+                ]
+              }
+        ]
+    },
+    {
+        "gender": "female",
+        "colors": [
+            {
+                "value": "#FFDDC1",
+                "color": "Light Peach",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://i.pinimg.com/736x/10/65/42/106542b264987727c8c3c1fb0cd74181.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4E1",
+                "color": "Misty Rose",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$34.99",
+                        "image": "https://wheat.no/cdn/shop/products/Blouse_Flora-Shirts_and_Blouses-4684f-373-2270_misty_rose-2_800x.jpg?v=1671116521"
+                    }
+                ]
+            },
+            {
+                "value": "#FFB6C1",
+                "color": "Light Pink",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://static.zara.net/assets/public/15d1/0563/fc61493b8acd/65de439a1565/01889615644-e1/01889615644-e1.jpg?ts=1718031868083&w=824"
+                    }
+                ]
+            },
+            {
+                "value": "#FFC0CB",
+                "color": "Pink",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$39.99",
+                        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe7%2F81%2Fe781257e5cff09561fa4352f5368456709c1cf3a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+                    }
+                ]
+            },
+            {
+                "value": "#FFDAB9",
+                "color": "Peach Puff",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://m.media-amazon.com/images/I/61rpRr5z0sL.AC_UY1100.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFEFD5",
+                "color": "Papaya Whip",
+                "clothes": [
+                    {
+                        "name": "Leggings",
+                        "price": "$19.99",
+                        "image": "https://michellefranciscobeauty.com/cdn/shop/files/all-over-print-flare-leggings-white-front-66573d0d004ed_2000x.jpg?v=1716993309"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF8DC",
+                "color": "Cornsilk",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$54.99",
+                        "image": "https://i.ebayimg.com/thumbs/images/g/l-YAAOSwnDNmNq2N/s-l1200.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFACD",
+                "color": "Lemon Chiffon",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://cdn.yoox.biz/14/14293479FV_12_F.JPG"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFFE0",
+                "color": "Light Yellow",
+                "clothes": [
+                    {
+                        "name": "Blouse",
+                        "price": "$34.99",
+                        "image": "https://thesstudioonline.com/cdn/shop/products/bs0235-1-6524e06d99c74.webp?v=1697190484"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF5EE",
+                "color": "Sea Shell",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeJ0Ab18otbOc_fxlLZy2RY5sHgG78YOeIw&s"
+                    }
+                ]
+            },
+            {
+                "value": "#E0A899",
+                "color": "Light Coral",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://dynamic.zacdn.com/9iSVaf8-yUTEK4TMDiC6X2cADXQ=/filters:quality(70):format(webp)/https://static-hk.zacdn.com/p/contemporary-designer-6513-0657866-1.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#F5DEB3",
+                "color": "Wheat",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://m.media-amazon.com/images/I/41WLbcnhTUL.AC_UY1100.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4B5",
+                "color": "Moccasin",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$39.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0673/9499/4459/files/MR24F-CDMD0351Q0-00W32-38-01.jpg?v=1720578183&width=800&height=800&crop=center"
+                    }
+                ]
+            },
+            {
+                "value": "#FAFAD2",
+                "color": "Light Goldenrod Yellow",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$54.99",
+                        "image": "https://i.ebayimg.com/thumbs/images/g/EeYAAOSwMuhl38y4/s-l1200.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4C4",
+                "color": "Bisque",
+                "clothes": [
+                    {
+                        "name": "Leggings",
+                        "price": "$19.99",
+                        "image": "https://img01.ztat.net/article/spp-media-p1/d8d85d3b844645df87920afc7578c234/c5d9906fa68d444cacb3a0597b5b0c1a.jpg?imwidth=762&filter=packshot"
+                    }
+                ]
+            },
+            {
+                "value": "#B16B8E",
+                "color": "Pale Violet Red",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://i.pinimg.com/736x/57/c2/71/57c2710975cf132fe87d9f5dc141a7ff.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#D8BFD8",
+                "color": "Thistle",
+                "clothes": [
+                    {
+                        "name": "Blouse",
+                        "price": "$34.99",
+                        "image": "https://shobitam.com/cdn/shop/files/ANS560_12_1800x1800.jpg?v=1693887476"
+                    }
+                ]
+            },
+            {
+                "value": "#DDA0DD",
+                "color": "Plum",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://i.pinimg.com/474x/49/c3/39/49c3394eeb2f1f4de0cdb4d352cb0adf.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#EE82EE",
+                "color": "Violet",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://cdna.lystit.com/400/500/tr/photos/farfetch/0f34cc0e/n21-purple-Twill-A-line-Midi-Skirt.jpeg"
+                    }
+                ]
+            },
+            {
+                "value": "#DA70D6",
+                "color": "Orchid",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://frenchcrown.in/cdn/shop/files/WTP071_9.jpg?v=1700906607&width=1750"
+                    }
+                ]
+            },
+            {
+                "value": "#FFB6C1",
+                "color": "Light Pink",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$39.99",
+                        "image": "https://static.zara.net/photos///2021/I/0/1/p/0086/035/444/2/w/613/0086035444_6_1_1.jpg?ts=1626854114888"
+                    }
+                ]
+            },
+            {
+                "value": "#FF69B4",
+                "color": "Hot Pink",
+                "clothes": [
+                    {
+                        "name": "Leggings",
+                        "price": "$19.99",
+                        "image": "https://s.alicdn.com/@sc04/kf/Hfe3be0edc89745a281ff57b3496c9daej.jpg_300x300.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#DB7093",
+                "color": "Pale Violet Red",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$54.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0874/0400/products/BROWNPAISLEYPATCHWORKBUBBLEJUMPSUIT_1788x.jpg?v=1710590872"
+                    }
+                ]
+            },
+            {
+                "value": "#FFC0CB",
+                "color": "Pink",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://s7.jcrew.com/is/image/jcrew/AS036_PP5421_m?wid=1840&hei=2300"
+                    }
+                ]
+            },
+            {
+                "value": "#FFD700",
+                "color": "Gold",
+                "clothes": [
+                    {
+                        "name": "Blouse",
+                        "price": "$34.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0035/9945/9876/products/TOP-GOLD-VELVET-CROPPED-LONG-SLEEVES_1200x.jpg?v=1679354523"
+                    }
+                ]
+            },
+            {
+                "value": "#EEE8AA",
+                "color": "Pale Goldenrod",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://sslimages.shoppersstop.com/sys-master/images/h50/h20/18693045137438/206183920_GOLD.jpg_2000Wx3000H"
+                    }
+                ]
+            },
+            {
+                "value": "#F0E68C",
+                "color": "Khaki",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://frenchcrown.in/cdn/shop/files/FSM062_1_600x600.jpg?v=1695882065"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFACD",
+                "color": "Lemon Chiffon",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://m.media-amazon.com/images/I/91ZzD+uHF2L.AC_UX569.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFDAB9",
+                "color": "Peach Puff",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$39.99",
+                        "image": "https://assets.ajio.com/medias/sys_master/root/hcb/h4d/17450954547294/-473Wx593H-461324427-pink-MODEL.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFEFD5",
+                "color": "Papaya Whip",
+                "clothes": [
+                    {
+                        "name": "Leggings",
+                        "price": "$19.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0550/7690/7087/products/ActiveSeamlessLeggings-Nude_Tan_1080x.jpg?v=1714851670"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFAFA",
+                "color": "Snow",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$54.99",
+                        "image": "https://www.bol.com/nl/nl/p/wit-zwarte-jumpsuit-met-strik/9200000140905084"
+                    }
+                ]
+            },
+            {
+                "value": "#F5F5F5",
+                "color": "White Smoke",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://cf.shopee.co.id/file/15debdce9ff2a8b4cb13d0a6c5b3ff32"
+                    }
+                ]
+            },
+            {
+                "value": "#FF6347",
+                "color": "Tomato",
+                "clothes": [
+                    {
+                        "name": "Blouse",
+                        "price": "$34.99",
+                        "image": "https://www.romwe.com/uimg/201901/MD/MD190115380_1_1.jpg?img"
+                    }
+                ]
+            },
+            {
+                "value": "#FA8072",
+                "color": "Salmon",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://ae01.alicdn.com/kf/HTB1uW.XJVXXXXanXFXXq6xXFXXXG/2017-font-b-Ladies-b-font-Spring-Summer-Long-font-b-Sleeve-b-font-Chiffon.jpg_Q90.jpg_.webp"
+                    }
+                ]
+            },
+            {
+                "value": "#E9967A",
+                "color": "Dark Salmon",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://img01.ztat.net/article/spp-media-p1/c3d863ff3a3d4bc8b80583a231d77d8b/f643a05abcc84adbb2bc1f67532a526b.jpg?imwidth=1800&filter=packshot"
+                    }
+                ]
+            },
+            {
+                "value": "#FFA07A",
+                "color": "Light Salmon",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://cf.shopee.co.id/file/2c70b1e22d569a4e66e81e2b88d52dfd"
+                    }
+                ]
+            },
+            {
+                "value": "#FF4500",
+                "color": "Orange Red",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$39.99",
+                        "image": "https://cdn.shopify.com/s/files/1/1124/3010/products/HawthornEDunedinCoat.jpg?v=1679402406"
+                    }
+                ]
+            },
+            {
+                "value": "#FF8C00",
+                "color": "Dark Orange",
+                "clothes": [
+                    {
+                        "name": "Leggings",
+                        "price": "$19.99",
+                        "image": "https://static.zara.net/photos///2021/I/0/1/p/2925/400/615/3/w/1920/2925400615_6_1_1.jpg?ts=1623841737691"
+                    }
+                ]
+            },
+            {
+                "value": "#FFA500",
+                "color": "Orange",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$54.99",
+                        "image": "https://i.ebayimg.com/thumbs/images/g/h5sAAOSw8DlhGVth/s-l1600.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FF4500",
+                "color": "Orange Red",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429008/sub/goods_429008_sub7.jpg?width=1600&impolicy=quality_75"
+                    }
+                ]
+            },
+            {
+                "value": "#FFD700",
+                "color": "Gold",
+                "clothes": [
+                    {
+                        "name": "Blouse",
+                        "price": "$34.99",
+                        "image": "https://i.pinimg.com/originals/2a/12/8c/2a128c2eb3d17264de6d3ac8c7884f31.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFF00",
+                "color": "Yellow",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0125/2281/5332/products/YELLOWMINIDRESS3_1200x.jpg?v=1621261481"
+                    }
+                ]
+            },
+            {
+                "value": "#FFD700",
+                "color": "Gold",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0020/1006/1163/products/8da05d22594e.jpg?v=1679488825"
+                    }
+                ]
+            },
+            {
+                "value": "#F0E68C",
+                "color": "Khaki",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://m.media-amazon.com/images/I/61Z-5NJwS5L.AC_UX679.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#E6E6FA",
+                "color": "Lavender",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$39.99",
+                        "image": "https://s.alicdn.com/@sc04/kf/Hcb92bb4ef24e46bca336391ed5f36af6r.jpg_300x300.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#D8BFD8",
+                "color": "Thistle",
+                "clothes": [
+                    {
+                        "name": "Leggings",
+                        "price": "$19.99",
+                        "image": "https://cdn11.bigcommerce.com/s-x49po/images/stencil/2048x2048/products/554/7278/leggings_THISTLE__44823.1545305953.jpg?c=2?imbypass=on"
+                    }
+                ]
+            },
+            {
+                "value": "#DA70D6",
+                "color": "Orchid",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$54.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0338/3385/6760/products/purple-jumpsuit__99403.jpg?v=1661224308"
+                    }
+                ]
+            },
+            {
+                "value": "#BA55D3",
+                "color": "Medium Orchid",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://cf.shopee.co.id/file/4e9249b70082bc37a93aabe9ba132e99"
+                    }
+                ]
+            },
+            {
+                "value": "#EE82EE",
+                "color": "Violet",
+                "clothes": [
+                    {
+                        "name": "Blouse",
+                        "price": "$34.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0359/8373/1707/products/HandpaintedSilkBlouseMauveViolet_5.jpg?v=1629861364"
+                    }
+                ]
+            },
+            {
+                "value": "#9400D3",
+                "color": "Dark Violet",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://www.lulus.com/images/product/xlarge/2070740_2305063.jpg?w=325&hdpi=1"
+                    }
+                ]
+            },
+            {
+                "value": "#9932CC",
+                "color": "Dark Orchid",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0151/0741/products/skirt-purple.jpg?v=1594328392"
+                    }
+                ]
+            },
+            {
+                "value": "#8A2BE2",
+                "color": "Blue Violet",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://i.ebayimg.com/images/g/UnEAAOSwAq5c2QuT/s-l1600.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FF00FF",
+                "color": "Magenta",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$39.99",
+                        "image": "https://static.zara.net/photos///2021/I/0/1/p/0086/035/444/2/w/613/0086035444_6_1_1.jpg?ts=1626854114888"
+                    }
+                ]
+            },
+            {
+                "value": "#FF1493",
+                "color": "Deep Pink",
+                "clothes": [
+                    {
+                        "name": "Leggings",
+                        "price": "$19.99",
+                        "image": "https://s.alicdn.com/@sc04/kf/Hfe3be0edc89745a281ff57b3496c9daej.jpg_300x300.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#C71585",
+                "color": "Medium Violet Red",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$54.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0874/0400/products/BROWNPAISLEYPATCHWORKBUBBLEJUMPSUIT_1788x.jpg?v=1710590872"
+                    }
+                ]
+            },
+            {
+                "value": "#D02090",
+                "color": "Violet Red",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://s7.jcrew.com/is/image/jcrew/AS036_PP5421_m?wid=1840&hei=2300"
+                    }
+                ]
+            },
+            {
+                "value": "#FF69B4",
+                "color": "Hot Pink",
+                "clothes": [
+                    {
+                        "name": "Blouse",
+                        "price": "$34.99",
+                        "image": "https://cdn.shopify.com/s/files/1/0035/9945/9876/products/TOP-GOLD-VELVET-CROPPED-LONG-SLEEVES_1200x.jpg?v=1679354523"
+                    }
+                ]
+            },
+            {
+                "value": "#DB7093",
+                "color": "Pale Violet Red",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$49.99",
+                        "image": "https://sslimages.shoppersstop.com/sys-master/images/h50/h20/18693045137438/206183920_GOLD.jpg_2000Wx3000H"
+                    }
+                ]
+            },
+            {
+                "value": "#FFC0CB",
+                "color": "Pink",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$29.99",
+                        "image": "https://frenchcrown.in/cdn/shop/files/FSM062_1_600x600.jpg?v=1695882065"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFACD",
+                "color": "Lemon Chiffon",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$24.99",
+                        "image": "https://m.media-amazon.com/images/I/91ZzD+uHF2L.AC_UX569.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#AAB7B8",
+                "color": "Grayish Blue",
+                "clothes": [
+                    {
+                        "name": "Shirt",
+                        "price": "$24.99",
+                        "image": "https://www.doubletwo.co.uk/media/catalog/product/cache/c6c1bd86f43b8caa5eecdaaa381e98d2/g/s/gs3881a_front.webp"
+                    }
+                ]
+            },
+            {
+                "value": "#85929E",
+                "color": "Blue Gray",
+                "clothes": [
+                    {
+                        "name": "Blazer",
+                        "price": "$69.99",
+                        "image": "https://i.etsystatic.com/15522659/c/2322/2322/203/0/il/3f2844/2909798741/il_300x300.2909798741_t4kx.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#566573",
+                "color": "Dark Gray Blue",
+                "clothes": [
+                    {
+                        "name": "Pants",
+                        "price": "$49.99",
+                        "image": "https://www.mynavyexchange.com/products/images/large/12840062_001.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#2C3E50",
+                "color": "Midnight Blue",
+                "clothes": [
+                    {
+                        "name": "Coat",
+                        "price": "$129.99",
+                        "image": "https://www.robertwstolz.com/cdn/shop/products/Women_s_Loden_Coat_Silvia_Front_navy_blue_Robert_W._Stolz_Loden_Coat_1200x.jpg?v=1569237025"
+                    }
+                ]
+            },
+            {
+                "value": "#A52A2A",
+                "color": "Brown",
+                "clothes": [
+                    {
+                        "name": "Skirt",
+                        "price": "$39.99",
+                        "image": "https://m.media-amazon.com/images/I/51PapIUi17L._AC_UF894,1000_QL80_.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#8B0000",
+                "color": "Dark Red",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$59.99",
+                        "image": "https://images1.novica.net/pictures/4/p403855_2.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#B22222",
+                "color": "Fire Brick",
+                "clothes": [
+                    {
+                        "name": "Cardigan",
+                        "price": "$44.99",
+                        "image": "https://i.ebayimg.com/images/g/VfAAAOSwQ8Zk2sHL/s-l1200.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#CD5C5C",
+                "color": "Indian Red",
+                "clothes": [
+                    {
+                        "name": "Dress",
+                        "price": "$79.99",
+                        "image": "https://www.joshindia.com/cdn/shop/files/5554_3.jpg?v=1686992386"
+                    }
+                ]
+            },
+            {
+                "value": "#DC143C",
+                "color": "Crimson",
+                "clothes": [
+                    {
+                        "name": "Jumpsuit",
+                        "price": "$89.99",
+                        "image": "https://i.pinimg.com/736x/63/9d/b8/639db89bbd589e710a022c89873184d7.jpg"
+                    }
+                ]
+            },
+            {
+                "value": "#FF0000",
+                "color": "Red",
+                "clothes": [
+                    {
+                        "name": "Top",
+                        "price": "$29.99",
+                        "image": "https://png.pngtree.com/png-clipart/20190121/ourlarge/pngtree-summer-womens-clothing-red-cartoon-t-shirt-short-t-shirt-female-png-image_505096.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]

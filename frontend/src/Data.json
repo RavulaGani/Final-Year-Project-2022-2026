@@ -1,0 +1,1135 @@
+[
+  {
+    "gender": "male",
+    "colors": [
+      {
+        "value": "#FFDDC1",
+        "color": "Light Peach",
+        "clothes": [
+          {
+            "name": "Casual Shirt",
+            "price": "$29.99",
+            "image": "https://imgs.search.brave.com/KVANN1Ey1R23CoTvbNL3c7KZ9vuq1FuvvGOOTPhzwFk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjErTGdGUElQekwu/anBn"
+          },
+          {
+            "name": "Chinos",
+            "price": "$34.99",
+            "image": "https://example.com/images/light-peach-chinos.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFE4E1",
+        "color": "Misty Rose",
+        "clothes": [
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://imgs.search.brave.com/5MEXmadzLST9FQK9lt1KdUzi64Ow42VQV0BQzi-8cnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaTJw/b252MHY1b3R3LmNs/b3VkZnJvbnQubmV0/L3Bvc3RzLzIwMjQv/MDQvMDkvNjYxNjBl/NjkyMDY4NDc5YjVl/NjdmNzI2L3NfNjYx/NjBlOTk4YTAwZTNj/YmViYjEyMjdlLmpw/Zw"
+          },
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/misty-rose-tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFB6C1",
+        "color": "Light Pink",
+        "clothes": [
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://muselot.in/cdn/shop/products/Muselot_s-plain-crop-t-shirt-in-lightpinkcolor.jpg?v=1657832830&width=1445"
+          },
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://example.com/images/light-pink-hoodie.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFC0CB",
+        "color": "Pink",
+        "clothes": [
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://imgs.search.brave.com/w728mfYQ5kHJlwGHVOCd62ATxrYYr461CsLDW9F4OHw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFRcC1lSnB1M0wu/anBn"
+          },
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/pink-sweater.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFDAB9",
+        "color": "Peach Puff",
+        "clothes": [
+          {
+            "name": "Polo Shirt",
+            "price": "$34.99",
+            "image": "https://imgs.search.brave.com/MEc5r3gwpM3Gyl6Xy2tZe020sgSDT24bGx5nvJv5Stw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG5h/Lmx5c3RpdC5jb20v/NDAwLzUwMC90ci9w/aG90b3MvYmFsdGlu/aS85Y2YwYzk1Zi9w/b2xvLXJhbHBoLWxh/dXJlbi1NdWx0aWNv/bG9yLVNsaW0tRml0/LVBvbG8uanBlZw"
+          },
+          {
+            "name": "Shorts",
+            "price": "$24.99",
+            "image": "https://example.com/images/peach-puff-shorts.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFEFD5",
+        "color": "Papaya Whip",
+        "clothes": [
+          {
+            "name": "Shorts",
+            "price": "$24.99",
+            "image": "https://m.media-amazon.com/images/I/31SoGJB-i8L.AC_SY1000.jpg"
+          },
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/papaya-whip-tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFF8DC",
+        "color": "Cornsilk",
+        "clothes": [
+          {
+            "name": "Jeans",
+            "price": "$49.99",
+            "image": "https://is4.revolveassets.com/images/p4/n/tv/LEIV-MJ12_V1.jpg"
+          },
+          {
+            "name": "Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/images/cornsilk-jacket.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFFACD",
+        "color": "Lemon Chiffon",
+        "clothes": [
+          {
+            "name": "Jacket",
+            "price": "$89.99",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVhgBiyJVZzgXAkV9SCy11TGusNCzOG7vpA&s"
+          },
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/lemon-chiffon-sweater.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFFFE0",
+        "color": "Light Yellow",
+        "clothes": [
+          {
+            "name": "Vest",
+            "price": "$49.99",
+            "image": "https://static.wixstatic.com/media/0efa99_f4ccb2f9012b4b77be8d56a03ec3cda4~mv2.jpg/v1/fill/w_480,h_720,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0efa99_f4ccb2f9012b4b77be8d56a03ec3cda4~mv2.jpg"
+          },
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/light-yellow-tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFF5EE",
+        "color": "Sea Shell",
+        "clothes": [
+          {
+            "name": "Sneakers",
+            "price": "$59.99",
+            "image": "https://i.etsystatic.com/32028882/r/il/bff379/3765898967/il_570xN.3765898967_hht4.jpg"
+          },
+          {
+            "name": "Shorts",
+            "price": "$24.99",
+            "image": "https://example.com/images/sea-shell-shorts.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#87CEEB",
+        "color": "Sky Blue",
+        "clothes": [
+          {
+            "name": "Casual Shirt",
+            "price": "$29.99",
+            "image": "https://imagescdn.thecollective.in/img/app/product/9/984135-13000982.jpg?w=500&auto=format"
+          },
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://example.com/images/sky-blue-hoodie.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#ADD8E6",
+        "color": "Light Blue",
+        "clothes": [
+          {
+            "name": "Vest",
+            "price": "$49.99",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2F3c%2Ff83c3d9c78394fd2fd0f95a77ebaf7996e76385a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_tanks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+          },
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/light-blue-tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#B0E0E6",
+        "color": "Powder Blue",
+        "clothes": [
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/powder-blue-sweater.jpg"
+          },
+          {
+            "name": "Jeans",
+            "price": "$49.99",
+            "image": "https://example.com/images/powder-blue-jeans.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#AFEEEE",
+        "color": "Pale Turquoise",
+        "clothes": [
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJg0rMYN4m6gtnPOUzmw2Bn0DyLZ3AB9yeA&s"
+          },
+          {
+            "name": "Shorts",
+            "price": "$24.99",
+            "image": "https://example.com/images/pale-turquoise-shorts.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#E0FFFF",
+        "color": "Light Cyan",
+        "clothes": [
+          {
+            "name": "Polo Shirt",
+            "price": "$34.99",
+            "image": "https://imgs.search.brave.com/gGiZLpFEr7gDJsVmpMKIepUmJW3-kit-WybjHAK3Ef0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFwSmhsRkp3bkwu/anBn"
+          },
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/light-cyan-tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#F0F8FF",
+        "color": "Alice Blue",
+        "clothes": [
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/alice-blue-sweater.jpg"
+          },
+          {
+            "name": "Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/images/alice-blue-jacket.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#D3D3D3",
+        "color": "Light Gray",
+        "clothes": [
+          {
+            "name": "Jeans",
+            "price": "$49.99",
+            "image": "https://m.media-amazon.com/images/I/61Tv18VIYPL.AC_UY1100.jpg"
+          },
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://example.com/images/light-gray-hoodie.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#C0C0C0",
+        "color": "Silver",
+        "clothes": [
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/silver-tshirt.jpg"
+          },
+          {
+            "name": "Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/images/silver-jacket.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#A9A9A9",
+        "color": "Dark Gray",
+        "clothes": [
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/dark-gray-sweater.jpg"
+          },
+          {
+            "name": "Jeans",
+            "price": "$49.99",
+            "image": "https://example.com/images/dark-gray-jeans.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#808080",
+        "color": "Gray",
+        "clothes": [
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://example.com/images/gray-hoodie.jpg"
+          },
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/gray-tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#8B4513",
+        "color": "Saddle Brown",
+        "clothes": [
+          {
+            "name": "Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/images/saddle-brown-jacket.jpg"
+          },
+          {
+            "name": "Jeans",
+            "price": "$49.99",
+            "image": "https://example.com/images/saddle-brown-jeans.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#A0522D",
+        "color": "Sienna",
+        "clothes": [
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/sienna-sweater.jpg"
+          },
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/sienna-tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#D2691E",
+        "color": "Chocolate",
+        "clothes": [
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://example.com/images/chocolate-hoodie.jpg"
+          },
+          {
+            "name": "Jeans",
+            "price": "$49.99",
+            "image": "https://example.com/images/chocolate-jeans.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#CD853F",
+        "color": "Peru",
+        "clothes": [
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/peru-tshirt.jpg"
+          },
+          {
+            "name": "Shorts",
+            "price": "$24.99",
+            "image": "https://example.com/images/peru-shorts.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#F4A460",
+        "color": "Sandy Brown",
+        "clothes": [
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/sandy-brown-sweater.jpg"
+          },
+          {
+            "name": "Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/images/sandy-brown-jacket.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#DEB887",
+        "color": "Burly Wood",
+        "clothes": [
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/burly-wood-tshirt.jpg"
+          },
+          {
+            "name": "Jeans",
+            "price": "$49.99",
+            "image": "https://example.com/images/burly-wood-jeans.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFA07A",
+        "color": "Light Salmon",
+        "clothes": [
+          {
+            "name": "Hoodie",
+            "price": "$44.99",
+            "image": "https://example.com/images/light-salmon-hoodie.jpg"
+          },
+          {
+            "name": "Shorts",
+            "price": "$24.99",
+            "image": "https://example.com/images/light-salmon-shorts.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FF8C69",
+        "color": "Salmon",
+        "clothes": [
+          {
+            "name": "T-shirt",
+            "price": "$19.99",
+            "image": "https://example.com/images/salmon-tshirt.jpg"
+          },
+          {
+            "name": "Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/images/salmon-sweater.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gender": "female",
+    "colors": [
+      {
+        "value": "#FFDDC1",
+        "clothes": [
+          {
+            "name": "Peach Blouse",
+            "price": "$34.99",
+            "image": "https://example.com/peach-blouse.jpg"
+          },
+          {
+            "name": "Floral Maxi Dress",
+            "price": "$59.99",
+            "image": "https://example.com/floral-maxi-dress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFE4E1",
+        "clothes": [
+          {
+            "name": "Rose Sweater",
+            "price": "$42.99",
+            "image": "https://example.com/rose-sweater.jpg"
+          },
+          {
+            "name": "Light Pink Skirt",
+            "price": "$29.99",
+            "image": "https://example.com/light-pink-skirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFB6C1",
+        "clothes": [
+          {
+            "name": "Blush Cardigan",
+            "price": "$39.99",
+            "image": "https://example.com/blush-cardigan.jpg"
+          },
+          {
+            "name": "Pink Tunic",
+            "price": "$44.99",
+            "image": "https://example.com/pink-tunic.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFC0CB",
+        "clothes": [
+          {
+            "name": "Soft Pink Hoodie",
+            "price": "$49.99",
+            "image": "https://example.com/soft-pink-hoodie.jpg"
+          },
+          {
+            "name": "Chiffon Scarf",
+            "price": "$19.99",
+            "image": "https://example.com/chiffon-scarf.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFDAB9",
+        "clothes": [
+          {
+            "name": "Peach Tunic Top",
+            "price": "$39.99",
+            "image": "https://example.com/peach-tunic.jpg"
+          },
+          {
+            "name": "Lace Blouse",
+            "price": "$54.99",
+            "image": "https://example.com/lace-blouse.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFEFD5",
+        "clothes": [
+          {
+            "name": "Cream Cardigan",
+            "price": "$59.99",
+            "image": "https://example.com/cream-cardigan.jpg"
+          },
+          {
+            "name": "Beige Summer Shorts",
+            "price": "$34.99",
+            "image": "https://example.com/beige-summer-shorts.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFF8DC",
+        "clothes": [
+          {
+            "name": "Ivory Blazer",
+            "price": "$79.99",
+            "image": "https://example.com/ivory-blazer.jpg"
+          },
+          {
+            "name": "Cream Sundress",
+            "price": "$69.99",
+            "image": "https://example.com/cream-sundress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFFACD",
+        "clothes": [
+          {
+            "name": "Lemon Tunic",
+            "price": "$44.99",
+            "image": "https://example.com/lemon-tunic.jpg"
+          },
+          {
+            "name": "Yellow Summer Hat",
+            "price": "$24.99",
+            "image": "https://example.com/yellow-summer-hat.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFFFE0",
+        "clothes": [
+          {
+            "name": "Light Yellow Shirt",
+            "price": "$39.99",
+            "image": "https://example.com/light-yellow-shirt.jpg"
+          },
+          {
+            "name": "Sunshine Skirt",
+            "price": "$49.99",
+            "image": "https://example.com/sunshine-skirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFF5EE",
+        "clothes": [
+          {
+            "name": "Soft Beige Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/soft-beige-jacket.jpg"
+          },
+          {
+            "name": "Off-White Scarf",
+            "price": "$29.99",
+            "image": "https://example.com/off-white-scarf.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#87CEEB",
+        "clothes": [
+          {
+            "name": "Sky Blue Sundress",
+            "price": "$49.99",
+            "image": "https://example.com/sky-blue-sundress.jpg"
+          },
+          {
+            "name": "Light Blue Cardigan",
+            "price": "$39.99",
+            "image": "https://example.com/light-blue-cardigan.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#ADD8E6",
+        "clothes": [
+          {
+            "name": "Pastel Blue Blazer",
+            "price": "$69.99",
+            "image": "https://example.com/pastel-blue-blazer.jpg"
+          },
+          {
+            "name": "Light Blue Jeans",
+            "price": "$59.99",
+            "image": "https://example.com/light-blue-jeans.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#B0E0E6",
+        "clothes": [
+          {
+            "name": "Powder Blue Blouse",
+            "price": "$34.99",
+            "image": "https://example.com/powder-blue-blouse.jpg"
+          },
+          {
+            "name": "Baby Blue Dress",
+            "price": "$54.99",
+            "image": "https://example.com/baby-blue-dress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#AFEEEE",
+        "clothes": [
+          {
+            "name": "Pale Blue Scarf",
+            "price": "$19.99",
+            "image": "https://example.com/pale-blue-scarf.jpg"
+          },
+          {
+            "name": "Aqua Tunic",
+            "price": "$39.99",
+            "image": "https://example.com/aqua-tunic.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#E0FFFF",
+        "clothes": [
+          {
+            "name": "Mint Blue Shirt",
+            "price": "$29.99",
+            "image": "https://example.com/mint-blue-shirt.jpg"
+          },
+          {
+            "name": "Seafoam Skirt",
+            "price": "$34.99",
+            "image": "https://example.com/seafoam-skirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#F0F8FF",
+        "clothes": [
+          {
+            "name": "Alice Blue Kimono",
+            "price": "$59.99",
+            "image": "https://example.com/alice-blue-kimono.jpg"
+          },
+          {
+            "name": "Pale Blue Shawl",
+            "price": "$24.99",
+            "image": "https://example.com/pale-blue-shawl.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#D3D3D3",
+        "clothes": [
+          {
+            "name": "Light Gray Blazer",
+            "price": "$79.99",
+            "image": "https://example.com/light-gray-blazer.jpg"
+          },
+          {
+            "name": "Charcoal Gray Pants",
+            "price": "$49.99",
+            "image": "https://example.com/charcoal-gray-pants.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#C0C0C0",
+        "clothes": [
+          {
+            "name": "Silver Wrap Dress",
+            "price": "$89.99",
+            "image": "https://example.com/silver-wrap-dress.jpg"
+          },
+          {
+            "name": "Metallic Top",
+            "price": "$39.99",
+            "image": "https://example.com/metallic-top.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#A9A9A9",
+        "clothes": [
+          {
+            "name": "Dark Gray Sweater",
+            "price": "$59.99",
+            "image": "https://example.com/dark-gray-sweater.jpg"
+          },
+          {
+            "name": "Heather Gray Joggers",
+            "price": "$44.99",
+            "image": "https://example.com/heather-gray-joggers.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#808080",
+        "clothes": [
+          {
+            "name": "Slate Gray Tunic",
+            "price": "$49.99",
+            "image": "https://example.com/slate-gray-tunic.jpg"
+          },
+          {
+            "name": "Ash Scarf",
+            "price": "$24.99",
+            "image": "https://example.com/ash-scarf.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#8B4513",
+        "clothes": [
+          {
+            "name": "Brown Leather Jacket",
+            "price": "$129.99",
+            "image": "https://example.com/brown-leather-jacket.jpg"
+          },
+          {
+            "name": "Chocolate Boots",
+            "price": "$89.99",
+            "image": "https://example.com/chocolate-boots.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#A0522D",
+        "clothes": [
+          {
+            "name": "Cinnamon Coat",
+            "price": "$99.99",
+            "image": "https://example.com/cinnamon-coat.jpg"
+          },
+          {
+            "name": "Rust Scarf",
+            "price": "$24.99",
+            "image": "https://example.com/rust-scarf.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#D2691E",
+        "clothes": [
+          {
+            "name": "Copper Sweater",
+            "price": "$59.99",
+            "image": "https://example.com/copper-sweater.jpg"
+          },
+          {
+            "name": "Burnt Orange Skirt",
+            "price": "$49.99",
+            "image": "https://example.com/burnt-orange-skirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#CD853F",
+        "clothes": [
+          {
+            "name": "Tan Blouse",
+            "price": "$34.99",
+            "image": "https://example.com/tan-blouse.jpg"
+          },
+          {
+            "name": "Beige Pants",
+            "price": "$44.99",
+            "image": "https://example.com/beige-pants.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#F4A460",
+        "clothes": [
+          {
+            "name": "Sandy Top",
+            "price": "$39.99",
+            "image": "https://example.com/sandy-top.jpg"
+          },
+          {
+            "name": "Goldenrod Cardigan",
+            "price": "$59.99",
+            "image": "https://example.com/goldenrod-cardigan.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#DEB887",
+        "clothes": [
+          {
+            "name": "Camel Trench Coat",
+            "price": "$119.99",
+            "image": "https://example.com/camel-trench-coat.jpg"
+          },
+          {
+            "name": "Tan Scarf",
+            "price": "$29.99",
+            "image": "https://example.com/tan-scarf.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFA07A",
+        "clothes": [
+          {
+            "name": "Coral T-Shirt",
+            "price": "$34.99",
+            "image": "https://example.com/coral-tshirt.jpg"
+          },
+          {
+            "name": "Salmon Wrap Dress",
+            "price": "$59.99",
+            "image": "https://example.com/salmon-wrap-dress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FF8C69",
+        "clothes": [
+          {
+            "name": "Tomato Red Blouse",
+            "price": "$29.99",
+            "image": "https://example.com/tomato-red-blouse.jpg"
+          },
+          {
+            "name": "Rustic Maxi Dress",
+            "price": "$69.99",
+            "image": "https://example.com/rustic-maxi-dress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FF7F50",
+        "clothes": [
+          {
+            "name": "Coral Peplum Top",
+            "price": "$44.99",
+            "image": "https://example.com/coral-peplum.jpg"
+          },
+          {
+            "name": "Tangerine Midi Skirt",
+            "price": "$39.99",
+            "image": "https://example.com/tangerine-midi.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FF6347",
+        "clothes": [
+          {
+            "name": "Bright Orange Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/bright-orange-jacket.jpg"
+          },
+          {
+            "name": "Sunset Dress",
+            "price": "$59.99",
+            "image": "https://example.com/sunset-dress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#98FB98",
+        "clothes": [
+          {
+            "name": "Mint Green Hoodie",
+            "price": "$49.99",
+            "image": "https://example.com/mint-green-hoodie.jpg"
+          },
+          {
+            "name": "Pale Green Sundress",
+            "price": "$39.99",
+            "image": "https://example.com/pale-green-sundress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#90EE90",
+        "clothes": [
+          {
+            "name": "Lime Green Scarf",
+            "price": "$19.99",
+            "image": "https://example.com/lime-green-scarf.jpg"
+          },
+          {
+            "name": "Bright Green Pants",
+            "price": "$44.99",
+            "image": "https://example.com/bright-green-pants.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#8FBC8F",
+        "clothes": [
+          {
+            "name": "Forest Green Blazer",
+            "price": "$79.99",
+            "image": "https://example.com/forest-green-blazer.jpg"
+          },
+          {
+            "name": "Olive Dress",
+            "price": "$54.99",
+            "image": "https://example.com/olive-dress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#3CB371",
+        "clothes": [
+          {
+            "name": "Sea Green Cardigan",
+            "price": "$59.99",
+            "image": "https://example.com/sea-green-cardigan.jpg"
+          },
+          {
+            "name": "Mossy Green Tunic",
+            "price": "$39.99",
+            "image": "https://example.com/mossy-green-tunic.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#2E8B57",
+        "clothes": [
+          {
+            "name": "Dark Green Coat",
+            "price": "$99.99",
+            "image": "https://example.com/dark-green-coat.jpg"
+          },
+          {
+            "name": "Teal Pants",
+            "price": "$59.99",
+            "image": "https://example.com/teal-pants.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#228B22",
+        "clothes": [
+          {
+            "name": "Emerald Wrap Dress",
+            "price": "$69.99",
+            "image": "https://example.com/emerald-wrap-dress.jpg"
+          },
+          {
+            "name": "Green Knit Sweater",
+            "price": "$39.99",
+            "image": "https://example.com/green-knit-sweater.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#6B8E23",
+        "clothes": [
+          {
+            "name": "Olive Utility Jacket",
+            "price": "$79.99",
+            "image": "https://example.com/olive-utility-jacket.jpg"
+          },
+          {
+            "name": "Khaki Skirt",
+            "price": "$34.99",
+            "image": "https://example.com/khaki-skirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#556B2F",
+        "clothes": [
+          {
+            "name": "Dark Olive Blazer",
+            "price": "$89.99",
+            "image": "https://example.com/dark-olive-blazer.jpg"
+          },
+          {
+            "name": "Military Green Cargo Pants",
+            "price": "$49.99",
+            "image": "https://example.com/military-cargo.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFD700",
+        "clothes": [
+          {
+            "name": "Gold Wrap Dress",
+            "price": "$99.99",
+            "image": "https://example.com/gold-wrap-dress.jpg"
+          },
+          {
+            "name": "Goldenrod Scarf",
+            "price": "$19.99",
+            "image": "https://example.com/goldenrod-scarf.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#F0E68C",
+        "clothes": [
+          {
+            "name": "Khaki Utility Jacket",
+            "price": "$89.99",
+            "image": "https://example.com/khaki-jacket.jpg"
+          },
+          {
+            "name": "Linen Trousers",
+            "price": "$59.99",
+            "image": "https://example.com/linen-trousers.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFDEAD",
+        "clothes": [
+          {
+            "name": "Beige Cardigan",
+            "price": "$44.99",
+            "image": "https://example.com/beige-cardigan.jpg"
+          },
+          {
+            "name": "Sand Maxi Dress",
+            "price": "$59.99",
+            "image": "https://example.com/sand-maxi-dress.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#B8860B",
+        "clothes": [
+          {
+            "name": "Golden Brown Leather Jacket",
+            "price": "$129.99",
+            "image": "https://example.com/golden-brown-leather-jacket.jpg"
+          },
+          {
+            "name": "Bronze Maxi Skirt",
+            "price": "$59.99",
+            "image": "https://example.com/bronze-maxi-skirt.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#DAA520",
+        "clothes": [
+          {
+            "name": "Goldenrod Blouse",
+            "price": "$39.99",
+            "image": "https://example.com/goldenrod-blouse.jpg"
+          },
+          {
+            "name": "Mustard Yellow Pants",
+            "price": "$49.99",
+            "image": "https://example.com/mustard-yellow-pants.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#FFD700",
+        "clothes": [
+          {
+            "name": "Gold Cocktail Dress",
+            "price": "$129.99",
+            "image": "https://example.com/gold-cocktail-dress.jpg"
+          },
+          {
+            "name": "Golden Sequin Scarf",
+            "price": "$24.99",
+            "image": "https://example.com/golden-sequin-scarf.jpg"
+          }
+        ]
+      },
+      {
+        "value": "#EEE8AA",
+        "clothes": [
+          {
+            "name": "Pale Yellow Tunic",
+            "price": "$39.99",
+            "image": "https://example.com/pale-yellow-tunic.jpg"
+          },
+          {
+            "name": "Soft Beige Wrap Skirt",
+            "price": "$44.99",
+            "image": "https://example.com/soft-beige-wrap-skirt.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
